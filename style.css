@@ -1,8 +1,8 @@
 body {
-  background-color: rgb(231, 240, 212);
+  background-color: rgb(230, 241, 212);
 }
 header {
-  background-color: rgb(166, 231, 15);
+  background-color: rgb(167, 235, 15);
   padding: 30px;
   font-size: 25px;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
@@ -13,7 +13,7 @@ header {
 }
 .form {
   padding: 40px;
-  background-color: gray;
+  background-color: blue;
   box-sizing: border-box;
   border: 2px solid rgb(93, 11, 11);
   box-shadow: 100px;
